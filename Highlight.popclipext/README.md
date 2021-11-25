@@ -15,6 +15,7 @@ Evernote
 ### ⇧⌘H
 Pages
 Scrivener
+Mendeley
 
 ### ⇧⌘L
 Alternote
